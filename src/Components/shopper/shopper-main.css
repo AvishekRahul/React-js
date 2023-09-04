@@ -1,0 +1,27 @@
+.card-women {
+    /*background-image: url("/public/women.jpg");*/
+    background-size: cover;
+    opacity: 0.5;
+}
+.card-men {
+    /*background-image: url("/public/men.jpg");*/
+    background-size: cover;
+    opacity: 0.5;
+}
+.card-kids {
+    /*background-image: url("/public/kids.png");*/
+    background-size: cover;
+    opacity: 0.5;
+}
+main{
+    height: 400px;
+}
+.card-men:hover {
+    opacity: 1;
+}
+.card-women:hover {
+    opacity: 1;
+}
+.card-kids:hover {
+    opacity: 1;
+}
